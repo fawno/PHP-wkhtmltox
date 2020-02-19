@@ -1,8 +1,8 @@
 <?php
-	namespace PHPwkhtmltox;
+	namespace Fawno\PHPwkhtmltox;
 
 	use FFI;
-	use PHPwkhtmltox\wkhtmltox;
+	use Fawno\PHPwkhtmltox\wkhtmltox;
 
 	class wkhtmltoimage extends wkhtmltox {
 		protected $global_settings = null;

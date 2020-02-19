@@ -1,6 +1,6 @@
 {
   "name": "fawno/php-wkhtmltox",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "PHP/FFI class for the C library wkhtmltox",
   "license": "MIT",
   "authors": [
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Fawno\\PHP-wkhtmltox\\": "src"
+      "Fawno\\PHPwkhtmltox\\": "src"
     }
   }
 }

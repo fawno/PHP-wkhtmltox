@@ -1,5 +1,5 @@
 <?php
-	namespace PHPwkhtmltox;
+	namespace Fawno\PHPwkhtmltox;
 
 	use FFI;
 
