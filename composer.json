@@ -1,6 +1,6 @@
 {
   "name": "fawno/php-wkhtmltox",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "PHP/FFI class for the C library wkhtmltox",
   "license": "MIT",
   "authors": [
