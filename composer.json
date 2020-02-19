@@ -1,0 +1,25 @@
+{
+  "name": "fawno/php-wkhtmltox",
+  "version": "0.1.0",
+  "description": "PHP/FFI class for the C library wkhtmltox",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fawno",
+      "homepage": "https://github.com/fawno/PHP-wkhtmltox/graphs/contributors"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/fawno/PHP-wkhtmltox/issues",
+    "source": "https://github.com/fawno/PHP-wkhtmltox"
+  },
+  "require": {
+    "php": ">=7.4.0",
+    "ext-ffi": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Fawno\\PHP-wkhtmltox\\": "src"
+    }
+  }
+}
