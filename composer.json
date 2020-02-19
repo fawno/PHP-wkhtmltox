@@ -14,7 +14,7 @@
     "source": "https://github.com/fawno/PHP-wkhtmltox"
   },
   "require": {
-		"wkhtmltopdf/wkhtmltopdf": "*",
+		"wkhtmltopdf": "*",
     "php": ">=7.4.0",
     "ext-ffi": "*"
   },
